@@ -5,3 +5,6 @@ The webpage is a safety-focused platform designed to quickly send an emergency e
 ![WhatsApp Image 2024-12-06 at 5 22 49 PM (2)](https://github.com/user-attachments/assets/225f958d-91c2-410b-95f9-636da72b8533)
 ![WhatsApp Image 2024-12-06 at 5 22 49 PM (1)](https://github.com/user-attachments/assets/548f7056-e71e-422d-8be4-22548a8ff7f0)
 ![WhatsApp Image 2024-12-06 at 5 22 49 PM](https://github.com/user-attachments/assets/06c69efc-c426-4a37-8192-6628a9e41337)
+
+# Report
+[REPORT1.2.docx](https://github.com/user-attachments/files/18217276/REPORT1.2.docx)
